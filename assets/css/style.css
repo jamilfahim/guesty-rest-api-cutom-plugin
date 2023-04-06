@@ -1,0 +1,41 @@
+.wc_create_product form.form {
+   width: 500px;
+   background: #fff;
+   height: 200px;
+   margin: 50px auto;
+   padding: 50px 0px 0px 0px;
+   text-align: center;
+   box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
+}
+
+.productupdated h3 {
+   background: #49AF41;
+   padding: 10px;
+   text-align: center;
+   color: #FFF;
+}
+.productcreated h3 {
+   background: #fdfdfd;
+   padding: 10px;
+   text-align: center;
+   color: #000;
+}
+
+button#createOrder {
+   padding: 8px 16px;
+   background: #2271b1;
+   color: #fff;
+   border: navajowhite;
+   border-radius: 5px;
+   cursor: pointer;
+   font-weight: 500;
+}
+button#createOrder:hover {
+   padding: 8px 16px;
+   background: #316e9f;
+   color: #fff;
+   border: none;
+   border-radius: 5px;
+   cursor: pointer;
+   font-weight: 500;
+}
